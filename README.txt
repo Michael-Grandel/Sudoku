@@ -1,4 +1,7 @@
-The program works quite efficiently actually! The longest time I see here is about 6 seconds, but nearly every board is solved in under a second. So thats great!
+#Sudoku 
+
+
+The algorithm works quite efficiently actually! The longest time I see here is about 6 seconds, but nearly every board is solved in under a second. So thats great!
 Even when testing the worlds hardest puzzles, the algorithm
 takes 13.068122863769531 seconds! This is pretty awesome
 
